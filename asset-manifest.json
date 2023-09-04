@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Responsive-Website-Development/static/css/main.c3a72a2d.css",
+    "main.js": "/Responsive-Website-Development/static/js/main.d5c674d1.js",
+    "static/media/StudentOne.png": "/Responsive-Website-Development/static/media/StudentOne.896018cd024242862f2e.png",
+    "static/media/StudentTwo.png": "/Responsive-Website-Development/static/media/StudentTwo.ae79cc326e141315b7d5.png",
+    "static/media/StanfordUniversity.png": "/Responsive-Website-Development/static/media/StanfordUniversity.7b1be824bedb32e61541.png",
+    "static/media/StudentThree.png": "/Responsive-Website-Development/static/media/StudentThree.1d07754d69c2b06e942b.png",
+    "static/media/HardvardUniversity.png": "/Responsive-Website-Development/static/media/HardvardUniversity.8b507e497931dd853295.png",
+    "static/media/OxfordUniversity.png": "/Responsive-Website-Development/static/media/OxfordUniversity.671c6f655ecf02696fd3.png",
+    "static/media/Nanyang Technological University.png": "/Responsive-Website-Development/static/media/Nanyang Technological University.449b3a6fa306b2417a0c.png",
+    "static/media/Jakob.png": "/Responsive-Website-Development/static/media/Jakob.95fe5bfe1d5393f7f2bf.png",
+    "static/media/Carla.png": "/Responsive-Website-Development/static/media/Carla.b568f8943f6bb67f2f9b.png",
+    "static/media/avatar (2).png": "/Responsive-Website-Development/static/media/avatar (2).85331982519b1675706d.png",
+    "index.html": "/Responsive-Website-Development/index.html",
+    "main.c3a72a2d.css.map": "/Responsive-Website-Development/static/css/main.c3a72a2d.css.map",
+    "main.d5c674d1.js.map": "/Responsive-Website-Development/static/js/main.d5c674d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a72a2d.css",
+    "static/js/main.d5c674d1.js"
+  ]
+}
